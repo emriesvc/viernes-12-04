@@ -1,6 +1,8 @@
 /**
  *@author EMR
  *
+
+DESDE GITHUB
   */
 public class Empleado {
 	private int emp_no;
