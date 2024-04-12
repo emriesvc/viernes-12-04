@@ -1,6 +1,7 @@
 /**
  *@author EMR
- *
+ * @version 1.0
+ * @since 1.0
   */
 public class Empleado {
 	private int emp_no;
